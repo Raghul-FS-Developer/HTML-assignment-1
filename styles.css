@@ -1,0 +1,22 @@
+body{background:skyblue
+
+}
+.first{
+    text-align:center;
+    color:rgb(53, 150, 77)
+  
+}
+
+  body{
+    border: 6px solid rgb(0, 0, 0);
+    border-radius: 50px;
+ width: 50%;
+ height: 400px;
+}
+
+  .pen{
+      text-align: center;
+  }
+  .pen{
+    color:rgb(199, 32, 32)
+  }
